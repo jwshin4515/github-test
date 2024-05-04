@@ -4,5 +4,13 @@ change a little bit
 
 chage more
 
+<<<<<<< HEAD
 New
 this is onlyl for oldies
+=======
+this is onlyl for oldies
+
+new songs
+
+change1
+>>>>>>> oldies
